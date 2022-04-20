@@ -1,0 +1,2 @@
+count = 0
+<button id="increment"> INCREMENT BY 1 /<button>
